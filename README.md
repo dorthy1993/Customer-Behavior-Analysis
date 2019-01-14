@@ -11,7 +11,7 @@ Given the higher profitability of premium subscribers, it is generally in the in
 
 #Packages
 
-dplyr; pastecs; ggplot2; MatchIt
+dplyr; pastecs; ggplot2; MatchIt; gridExtra
 
 
 
