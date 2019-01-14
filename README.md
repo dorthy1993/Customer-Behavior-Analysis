@@ -7,9 +7,13 @@ However, premium subscribers are rare.
 
 Given the higher profitability of premium subscribers, it is generally in the interest of company to motivate users to go from “free to fee”; that is, convert free accounts to premium subscribers. The purpose in regards to this case is to analyze the data for potential insight to inform a “free-to-fee” strategy.
 
+
+
 #Packages
 
 dplyr; pastecs; ggplot2; MatchIt
+
+
 
 #Predictive Model
 
