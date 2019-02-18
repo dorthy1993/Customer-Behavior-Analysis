@@ -9,12 +9,12 @@ Given the higher profitability of premium subscribers, it is generally in the in
 
 
 
-**#Packages**
+# Packages
 
 dplyr; pastecs; ggplot2; MatchIt; gridExtra
 
 
 
-**#Predictive Model**
+# Predictive Model
 
 Binomial Regression; Logistic Regression
